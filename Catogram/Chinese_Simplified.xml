@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Catogram -->
+    <!-- License -->
+    This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+    2020 © Fengyeshu(TG@PiaoluodeFengye）,Fengzh Project
+    Thanks：
+    Developers：
+    @iTaysonLab @ctwoon
+    Telegram Users：
+    @Nebula_Collapse @wushidi
+    <!-- Version -->
+    <string name="CatogramVersion">Catogram %1$s</string>
+    <string name="CG_AboutDesc">"An experimental Telegram app modification."\n“一个实验性的 Telegram 修改版。”\n汉化版本: GitHub 1.0.0 \n汉化作者：TG@Fengzh 汉化团队 X 其他翻译贡献者 X YOU</string>
+    <string name="TelegramVersion">Catogram %1$s</string>
+    <!-- VER Thu Dec 27 17:05:00 CST 2020 -->
+    <!-- Google Play -->
+    <string name="CG_GooglePlay_ChooseAmount">选择一个项目以继续</string>
+    <string name="CG_GooglePlay_Donate">官方捐赠通道</string>
+    <string name="CG_GooglePlay_Info">信息</string>
+    <string name="CG_GooglePlay_InfoDesc">需要 Google Play 服务才能完成本次支付流程</string>
+    <string name="CG_GooglePlay_OTADownloaded">更新已经下载完成</string>
+    <string name="CG_GooglePlay_OTADownloaded_Restart">重新启动应用</string>
+    <string name="CG_GooglePlay_Thanks">谢谢您!</string>
+    <!-- Catogram Preferrences Page -->
+    <string name="AdvancedSettings">高级设定</string>
+    <!-- About -->
+    <string name="AS_Header_About">关于 Catogram</string>
+    <string name="CG_ToChannel">官方通知频道</string>
+    <string name="CG_ToChat">官方讨论群组</string>
+    <string name="CG_Donate">官方捐赠通道</string>
+    <string name="CG_DonatDesc">使应用变得更好</string>
+    <!-- Categories -->
+    <string name="AS_Header_Categories">Catogram 客制化</string>
+    <string name="AS_Header_Appearance">外观相关</string>
+    <string name="AS_Header_Chats">聊天对话</string>
+    <string name="AS_Category_Security">隐私安全</string>
+    <string name="DebugMenu">调试菜单</string>
+    <!-- Appearance Page -->
+    <!-- Redesign -->
+    <string name="AS_RedesignCategory">设计重置</string>
+    <string name="CG_TelegramThemes">官方主题</string>
+    <string name="CG_TelegramThemes_Desc">只在聊天设置中生效（作为演示用途）</string>
+    <string name="CG_NewDrawer">账户抽屉</string>
+    <string name="CG_NewDrawer_Desc">如果需要使用多账户系统，请关闭此功能</string>
+    <string name="CG_MessageMenuOption">聊天菜单</string>
+    <string name="CG_MessageMenuOption_TGX">Telegram X-styled (平滑)</string>
+    <string name="CG_MessageMenuOption_CL">CupertinoLib (beta, iOS-styled)</string>
+    <string name="CG_MessageMenuOption_TGXS">Telegram X-styled (经典)</string>
+    <string name="AS_ChangeIcon">应用图标</string>
+    <string name="CG_IconReplacements">UI 图标</string>
+    <!-- General -->
+    <string name="General">通用</string>
+    <string name="AS_HideUserPhone">隐藏手机号码</string>
+    <string name="AS_HideUserPhoneSummary">在侧边栏与设置页</string>
+    <string name="AS_NoRounding">显示实际数字</string>
+    <string name="AS_NoRoundingSummary">启用前：1.2K 启用后：1234</string>
+    <string name="AS_SystemFonts">使用系统字体（可能有问题）</string>
+    <string name="AS_Vibration">禁用应用震动</string>
+    <string name="AS_FlatSB">沉浸/透明系统状态栏</string>
+    <string name="AS_FlatSB_Desc">对 搭载 Android 6 及以上的设备生效</string>
+    <string name="AS_FlatAB">无工具栏阴影</string>
+    <string name="CG_ConfirmCalls">通话拨出提醒</string>
+    <string name="AS_SysEmoji">使用系统 Emoji</string>
+    <string name="AS_SysEmojiDesc">可能会有问题，在使用时请注意</string>
+    <!-- Notifications -->
+    <string name="AS_Header_Notification">通知</string>
+    <string name="AS_AccentNotify">为其染上颜色</string>
+    <string name="CG_OldNotification">使用初始图标</string>
+    <!-- Drawer -->
+    <string name="AS_DrawerCategory">抽屉</string>
+    <string name="AS_ForceIcons">图标风格［需要重启应用］</string>
+    <string name="AS_DrawerAvatar">头像背景</string>
+    <string name="AS_DrawerBlur">背景模糊</string>
+    <string name="AS_DrawerDarken">暗色遮罩</string>
+    <!-- Header Fun -->
+    <string name="AS_Header_Fun">有趣的特性</string>
+    <string name="AS_ForceNY">新年永不停</string>
+    <string name="AS_ForceNYSummary">设定每天都是新年，启用选项后请重启客户端</string>
+    <string name="AS_ForcePacman">一直吃豆人</string>
+    <string name="AS_ForcePacmanSummary">只在归档聊天生效</string>
+    <!-- Chats Page -->
+    <string name="CG_Slider_StickerAmplifier">调整贴纸显示大小（100为默认大小）</string>
+    <!-- Chat filters -->
+    <string name="AS_Filters_Header">文件夹</string>
+    <string name="CG_NewTabs_NoCounter">隐藏聊天会话数量</string>
+    <string name="CG_TabIconMode_Title">更改图标样式［需要重启应用］</string>
+    <string name="CG_TabIconMode_Append">图标与文字</string>
+    <string name="CG_TabIconMode_Disabled">仅文字</string>
+    <string name="CG_TabIconMode_Replace">仅图标</string>
+    <string name="CG_NewTabs_RemoveAllChats">隐藏 \"所有会话\" 栏［需要重启应用］</string>
+    <string name="CG_NewTabs_RemoveAllChats_Desc">按 \"返回键\" 在主页就能重新开启</string>
+    <!-- Chats -->
+    <string name="CG_ArchiveOnPull">下拉展开归档</string>
+    <string name="CG_ArchiveOnPull_Desc">启用在下拉时进入归档</string>
+    <string name="CG_SyncPins">同步置顶</string>
+    <string name="CG_SyncPins_Desc">关闭同步置顶即可置顶无限对话</string>
+    <string name="CG_Proximity">禁用距离传感器</string>
+    <string name="CG_Proximity_Desc">这在有些情况下很有用</string>
+    <string name="CG_RearCam">使用后置摄像头</string>
+    <string name="CG_RearCam_Desc">这在有些情况下很有用</string>
+    <string name="CG_SmoothKbd">更平滑的键盘动画</string>
+    <string name="CG_SmoothKbd_Desc">官方的实现方法</string>
+    <string name="CG_FABLeft">将 \"新对话\" 按钮反方向放置</string>
+    <string name="CG_MsgSlideAction">滑动消息时...</string>
+    <string name="CG_MsgSlideAction_Reply">回复</string>
+    <string name="CG_MsgSlideAction_Save">保存消息</string>
+    <string name="CG_MsgSlideAction_Share">分享</string>
+    <string name="CG_HideKbdOnScroll">在浏览页面时隐藏键盘</string>
+    <string name="CG_ForwardMsgDate">显示被转发原消息所发送的时间</string>
+    <!-- Profiles -->
+    <string name="CG_Header_Profile">账户资料</string>
+    <string name="CG_NewAvaHeader_NoEdgeTapping">屏蔽边缘点击</string>
+    <string name="CG_NewAvaHeader_NoEdgeTapping_Desc">您依然可以滑动来切换媒体</string>
+    <string name="CG_EnableSwipePIP">操作画中画视频</string>
+    <string name="CG_EnableSwipePIP_Desc">可以滑动画中画视频</string>
+    <string name="CG_NewAvaHeader_OpenOnTap">点击时全屏</string>
+    <string name="CG_NewAvaHeader_OpenOnTap_Desc">可以代替边缘敲击</string>
+    <string name="CG_NewAvaHeader_AlwaysExpand">总为扩展</string>
+    <string name="CG_NewAvaHeader_AlwaysExpand_Desc">不进行对头像在设置页个人资料出做缩放处理</string>
+    <!-- Security Page -->
+    <!-- Authentication -->
+    <string name="AS_Header_Auth">使用者身份验证</string>
+    <string name="AS_Biometric">使用实体验证</string>
+    <string name="AS_BiometricDesc">让支持硬件级身份验证的设备可发挥其作用，例如让 Pixel 4 支持指纹解锁</string>
+    <!-- Privacy -->
+    <string name="AS_Header_Privacy">保护您的隐私</string>
+    <string name="AS_NoProxyPromo">不显示代理赞助频道</string>
+    <string name="AS_ForwardNoAuthorship">无来源转发 [beta]</string>
+    <string name="AS_ForwardNoAuthorship_Desc">这会让您所进行的所有转发均不显示原作者</string>
+    <!-- Title -->
+    <string name="ActionBarTitle">Catogram</string>
+    <!-- Unsorted -->
+    <string name="CG_Translate">翻译</string>
+    <string name="CG_Translate_Orig">原文</string>
+    <string name="CG_Translate_Translated">译文</string>
+    <string name="CG_Translate_Language">自动检测</string>
+    <string name="CG_Translate_PoweredBy">翻译来自于</string>
+    <string name="CG_ToSaved">收藏</string>
+    <string name="CG_IconReplacement_Default">默认</string>
+    <string name="AS_ChangeIcon_Old">默认</string>
+    <string name="CG_MessageMenuOption_Default">默认</string>
+    <string name="AS_ForceDefault_Drawer">默认</string>
+</resources>
